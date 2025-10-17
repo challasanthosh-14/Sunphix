@@ -148,20 +148,21 @@ footer{
 }
 
 
-#logo{
+.logo{
   border: 2px solid rgb(240, 234, 234);
   padding: 10px;
   border-radius: 10px;
 }
 
-#logo p{
+.logo p{
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   text-align: center;
   color: white;
   font-size:x-large;
 }
 
-#logo img{
+.logo img{
   width:300px;
   height: auto;
 }
+
